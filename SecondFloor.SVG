@@ -21,31 +21,38 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:pagecheckerboard="0"
      inkscape:zoom="7.7999997"
-     inkscape:cx="53.397438"
-     inkscape:cy="53.397438"
+     inkscape:cx="38.525643"
+     inkscape:cy="43.141027"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="266"
      inkscape:window-maximized="1" />
   <g
-     inkscape:label="Slice 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <path
-       id="rect71"
-       style="fill:#e9c6af;stroke-width:0.9375"
-       d="M 13.822115,21.754808 H 51.682692 V 46.033653 H 13.822115 Z" />
+     id="layer2"
+     inkscape:label="Front Bdrm"
+     style="display:inline">
     <rect
-       style="fill:#65c6af;stroke-width:0.9375;fill-opacity:1"
+       style="display:inline;fill:#65c6af;fill-opacity:1;stroke-width:0.9375"
        id="rect31"
        width="20.432692"
        height="11.418269"
        x="58.89423"
        y="30.288462" />
+  </g>
+  <g
+     inkscape:label="Lvng Rm"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       id="rect71"
+       style="fill:#e9c6af;stroke-width:0.9375"
+       d="M 13.822115,21.754808 H 51.682692 V 46.033653 H 13.822115 Z" />
   </g>
 </svg>
