@@ -26,7 +26,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:zoom="7.7999997"
      inkscape:cx="38.525643"
-     inkscape:cy="43.141027"
+     inkscape:cy="12.371795"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -37,13 +37,10 @@
      id="layer2"
      inkscape:label="Front Bdrm"
      style="display:inline">
-    <rect
-       style="display:inline;fill:#65c6af;fill-opacity:1;stroke-width:0.9375"
+    <path
        id="rect31"
-       width="20.432692"
-       height="11.418269"
-       x="58.89423"
-       y="30.288462" />
+       style="display:inline;fill:#65c6af;stroke-width:0.9375"
+       d="M 58.89423,30.288462 H 79.326921 V 41.706731 H 58.89423 Z" />
   </g>
   <g
      inkscape:label="Lvng Rm"
