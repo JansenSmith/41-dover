@@ -25,7 +25,7 @@
      showgrid="false"
      inkscape:pagecheckerboard="0"
      inkscape:zoom="7.7999997"
-     inkscape:cx="53.269233"
+     inkscape:cx="53.397438"
      inkscape:cy="53.397438"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -40,5 +40,12 @@
        id="rect71"
        style="fill:#e9c6af;stroke-width:0.9375"
        d="M 13.822115,21.754808 H 51.682692 V 46.033653 H 13.822115 Z" />
+    <rect
+       style="fill:#65c6af;stroke-width:0.9375;fill-opacity:1"
+       id="rect31"
+       width="20.432692"
+       height="11.418269"
+       x="58.89423"
+       y="30.288462" />
   </g>
 </svg>
