@@ -24,7 +24,8 @@ HashMap<String,List<Polygon>> polygonsByLayer = s.toPolygons()
 HashMap<String,ArrayList<CSG>> csgByLayers = s.extrudeLayers(10)
 
 // extrude just one layer to 10mm
-def holeParts = s.extrudeLayerToCSG(10,"Floors")
+def room1 = s.extrudeLayerToCSG(10,"Lvng Rm")
+def room2 = s.extrudeLayerToCSG(12,"Front Bdrm")
 
 /*
 // seperate holes and outsides using layers to differentiate
